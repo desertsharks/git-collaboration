@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 Janessa Link - Leucratic Dim Sum
 Thomas Logan
 Joseph Pei
 Ben Pevsner
 
+=======
+Janessa Link - leucocratic
+Thomas Logan: BLUE
+Joseph Pei - Red
+Ben Pevsner - Purple
+>>>>>>> 65ed795499635d8b9efd8a8c0a677e126a0a31a3
